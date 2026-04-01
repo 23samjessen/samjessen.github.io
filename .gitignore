@@ -1,0 +1,8 @@
+# Private recommendation files
+private/recommendation/*.pdf
+private/recommendation/*.docx
+private/recommendation/*.private.*
+private/recommendation/granted-access.private.csv
+
+# macOS
+.DS_Store
